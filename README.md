@@ -1,6 +1,6 @@
-### Hi there, I'm Philip Rivera [website] 👋
+### Hi there, I'm Philip Rivera 👋
 
-[![Website](https://philipcrivera.github.io/)]
+
 
 ## I'm a UX/UI Designer, Software Developer, Karaoke Extraordinaire, and Digital Artist!!
 
