@@ -33,3 +33,6 @@
 <br />
 
 ---
+[website]: https://philipcrivera.github.io/
+[instagram]: https://instagram.com/carmelo_creates
+[linkedin]: https://linkedin.com/in/philipcrivera
