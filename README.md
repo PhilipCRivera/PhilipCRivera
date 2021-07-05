@@ -9,14 +9,6 @@
 - 🥅 2021 Goals: Make More Meaningful Connections 
 - ⚡ Fun fact: I love watching Ghost Adventures and The Conjuring Series
 
-
-### Connect with me:
-
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://www.linkedin.com/in/philipcrivera/" />][linkedin]
-[<img align="left" alt="instagram | Instagram" width="22px" src="https://www.instagram.com/carmelo_creates/" />][instagram]
-
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
