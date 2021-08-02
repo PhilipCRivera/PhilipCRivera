@@ -4,7 +4,7 @@
 
 ## I'm a UX/UI Designer, Software Developer, Karaoke Extraordinaire, and Digital Artist!!
 
-- 🌱 I’m currently living in the Bay Area
+- 🌱 I’m currently living in the Sacramento, CA
 - 👯 I’m looking forward to what my future holds
 - 🥅 2021 Goals: Make More Meaningful Connections 
 - ⚡ Fun fact: I love watching Ghost Adventures and The Conjuring Series
